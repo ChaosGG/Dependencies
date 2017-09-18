@@ -1,7 +1,7 @@
 {
   "StaticFiles": {
     "System\\Chaos.Sandbox.dll": {
-      "MD5": "3226a61975b449d0f7c083de14b0db03",
+      "MD5": "e12f9df841dfaf9b93aaa94faae3fa58",
       "Download": "https://raw.github.com/ChaosGG/Dependencies/master/System/Chaos.Sandbox.dll"
     },
     "System\\SharpDX.Direct3D9.dll": {
