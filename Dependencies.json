@@ -1,0 +1,33 @@
+{
+  "StaticFiles": {
+    "System\\Chaos.Sandbox.dll": {
+      "MD5": "3226a61975b449d0f7c083de14b0db03",
+      "Download": "https://raw.github.com/ChaosGG/Dependencies/master/System/Chaos.Sandbox.dll"
+    },
+    "System\\SharpDX.Direct3D9.dll": {
+      "MD5": "b64939d8f4e6658d90ad9c344994553b",
+      "Download": "https://raw.github.com/ChaosGG/Dependencies/master/System/SharpDX.Direct3D9.dll"
+    },
+    "System\\SharpDX.dll": {
+      "MD5": "9e2ae61790b003ce712fd7e436be0c49",
+      "Download": "https://raw.github.com/ChaosGG/Dependencies/master/System/SharpDX.dll"
+    },
+    "System\\SharpDX.XInput.dll": {
+      "MD5": "b395389e49726656ab20c26ee631a28b",
+      "Download": "https://raw.github.com/ChaosGG/Dependencies/master/System/SharpDX.XInput.dll"
+    },
+    "Core\\CSGO\\Chaos.CSGO.Core.dll": {
+      "MD5": "790640bb58896a082365c5253c603d48",
+      "Download": "https://raw.github.com/ChaosGG/Dependencies/master/Core/CSGO/Chaos.CSGO.Core.dll"
+    },
+    "Core\\CSGO\\Chaos.CSGO.dll": {
+      "MD5": "291c1d7846fd11087a5cd75b7cd891ea",
+      "Download": "https://raw.github.com/ChaosGG/Dependencies/master/Core/CSGO/Chaos.CSGO.dll"
+    }
+  },
+  "Patches": {},
+  "Loader": {
+    "MD5": "d21c942a34581060f8185dd0343ec734",
+    "Download": "https://raw.github.com/ChaosGG/Dependencies/master/Loader/Loader.exe"
+  }
+}
