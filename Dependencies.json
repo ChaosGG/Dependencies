@@ -17,11 +17,11 @@
       "Download": "https://raw.github.com/ChaosGG/Dependencies/master/System/SharpDX.XInput.dll"
     },
     "Core\\CSGO\\Chaos.CSGO.Core.dll": {
-      "MD5": "882e739c0227469ac515583a3c1c789b",
+      "MD5": "4124de9cf198b3762be7b26942f61446",
       "Download": "https://raw.github.com/ChaosGG/Dependencies/master/Core/CSGO/Chaos.CSGO.Core.dll"
     },
     "Core\\CSGO\\Chaos.CSGO.dll": {
-      "MD5": "3b6501703dba2be1606fd98b68cf3ad8",
+      "MD5": "0c7b5dc1f007911dd1613caf519b3e62",
       "Download": "https://raw.github.com/ChaosGG/Dependencies/master/Core/CSGO/Chaos.CSGO.dll"
     }
   },
